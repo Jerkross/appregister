@@ -1,0 +1,23 @@
+C:\Users\JCAISIA\Desktop\Final final de verdad\bin\Debug\Final final de verdad.exe.config
+C:\Users\JCAISIA\Desktop\Final final de verdad\bin\Debug\Final final de verdad.exe.manifest
+C:\Users\JCAISIA\Desktop\Final final de verdad\bin\Debug\Final final de verdad.application
+C:\Users\JCAISIA\Desktop\Final final de verdad\bin\Debug\Final final de verdad.exe
+C:\Users\JCAISIA\Desktop\Final final de verdad\bin\Debug\Final final de verdad.pdb
+C:\Users\JCAISIA\Desktop\Final final de verdad\bin\Debug\EntityFramework.dll
+C:\Users\JCAISIA\Desktop\Final final de verdad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JCAISIA\Desktop\Final final de verdad\bin\Debug\System.Data.SQLite.dll
+C:\Users\JCAISIA\Desktop\Final final de verdad\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\JCAISIA\Desktop\Final final de verdad\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\JCAISIA\Desktop\Final final de verdad\bin\Debug\EntityFramework.xml
+C:\Users\JCAISIA\Desktop\Final final de verdad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JCAISIA\Desktop\Final final de verdad\bin\Debug\System.Data.SQLite.xml
+C:\Users\JCAISIA\Desktop\Final final de verdad\obj\Debug\Final final de verdad.csproj.AssemblyReference.cache
+C:\Users\JCAISIA\Desktop\Final final de verdad\obj\Debug\Final_final_de_verdad.dada.resources
+C:\Users\JCAISIA\Desktop\Final final de verdad\obj\Debug\Final_final_de_verdad.Properties.Resources.resources
+C:\Users\JCAISIA\Desktop\Final final de verdad\obj\Debug\Final final de verdad.csproj.GenerateResource.cache
+C:\Users\JCAISIA\Desktop\Final final de verdad\obj\Debug\Final final de verdad.csproj.CoreCompileInputs.cache
+C:\Users\JCAISIA\Desktop\Final final de verdad\obj\Debug\Final final de verdad.exe.manifest
+C:\Users\JCAISIA\Desktop\Final final de verdad\obj\Debug\Final final de verdad.application
+C:\Users\JCAISIA\Desktop\Final final de verdad\obj\Debug\Final final de verdad.csproj.CopyComplete
+C:\Users\JCAISIA\Desktop\Final final de verdad\obj\Debug\Final final de verdad.exe
+C:\Users\JCAISIA\Desktop\Final final de verdad\obj\Debug\Final final de verdad.pdb
